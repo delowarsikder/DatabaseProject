@@ -1,0 +1,5 @@
+    Common noun: Entity type. Example: student.
+    Proper noun: Entity. Example: Sally Smith.
+    Verb: Relationship type. Example: Enrolls. (Such as in a course, which would be another entity type.)
+    Adjective: Attribute for entity. Example: sophomore.
+    Adverb: Attribute for relationship. Example: digitally.
